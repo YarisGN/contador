@@ -1,0 +1,175 @@
+*{
+    margin: 0%;
+}
+.parte1{
+    background-image: url(../img/Sin\ título\ \(4\).png );
+    padding-left: 3%;
+    padding-right: 45%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 19px;
+    color: aliceblue;
+}
+.parte2{
+    margin-left: 55%;
+    margin-right: 30%;
+    border-radius: 10px;
+    border: none;
+    font-size: 25px;
+    cursor: pointer;
+    font-weight:400;
+    transition: 300ms;
+    font-weight: 500;
+    opacity: 0.75;
+    color: rgb(0, 0, 0);
+}
+.parte3{
+    margin-left: 53%;
+    margin-right: 10%
+}
+.img1{
+    width: 60%;
+    height: 60%;
+}
+#contador{
+    padding-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 5rem;
+}
+#contador div{
+    border: 2px #c53cfb solid;
+    border-radius: 5px;
+    background: rgb(0, 0, 0);
+    opacity: 2.25;
+    margin: 25px;
+    color: aliceblue;
+}
+#contador .texto{
+    font-size: 2.5rem;
+    background-color: #efd3fa;
+    width: 100%;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    display: block;
+}
+
+
+/* Barra */
+.skill_content{
+    margin-left: -10%;
+    margin-top: -64%;
+}
+.skill_bar{
+    margin-left: -115%;
+    margin-right: 116%;
+    margin-top: -35%;
+}
+.home_btns{
+    margin-left: -115%;
+    margin-top: 5%;
+}
+.learn{
+    margin-left: -2px;
+}
+
+/* barra */
+
+.container{
+    width: 90%;
+    max-width: 1200px;
+    margin: a
+}
+.container .btn-menu, .logo{
+    float: left;
+    line-height: 70px;
+}
+.container .menu{
+    float: right;
+    line-height: 70px;
+}
+.container .menu a{
+    display: inline-block;
+    padding: 15px 10px;
+    line-height: normal;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    transition: all 0.3s ease;
+    border-bottom: 2px solid transparent;
+    font-size: 15px;
+}
+.container .menu a:hover{
+    border-bottom: 2px solid #077f11fb;
+    padding: 5px 10px;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.col-md-6 {
+    width: 50%;
+}
+@media (min-width: 992px) {
+    .col-md-6{
+      float: left;
+}}
+.col-md-6{
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+.separator_left{
+    width: 100px;
+    height:2px;
+    margin:20px 0px;
+    background: #ff6863;
+}
+.teamskillbar {
+    position:relative;
+    display:block;
+    margin-bottom:15px;
+    width:100%;
+    background: #f2f2f2;
+    height:10px;
+    /*-webkit-transition:0.4s linear; 
+    transition:0.4s linear;*/
+    -webkit-transition-property:width, background-color;
+    transition-property:width, background-color;
+}
+.teamskillbar h6{
+    position: absolute;
+    top:-25px;
+    left:0;
+}
+.teamskillbar-bar {
+    height:10px;
+    width:0px;
+    background:#ff6863;
+    position: absolute;
+    left:0px;
+    top:0px;
+}
+h6 {
+    color: var(--gray-color);
+    font-size: var(--h6-font-size);
+    line-height: inherit;
+    margin: 0;
+}
+
+p {
+    color: var(--p-color);
+    font-size: var(--p-font-size);
+    font-weight: var(--font-weight-light);
+    line-height: 1.5em;
+  }
+
+
+
+
+
+
