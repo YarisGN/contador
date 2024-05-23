@@ -1,6 +1,6 @@
 const actualizador = setInterval(function(){
 
-const inicioClase = new Date('May 30, 2022 10:00:00').getTime();
+const inicioClase = new Date('May 28, 2024 10:00:00').getTime();
 console.log(inicioClase);
 
 const tiempoActual = new Date().getTime();

@@ -1,10 +1,10 @@
-# banco_usuarios
+# Contador
 
-Bienvenido a la aplicación web "Banco de Usuarios".
+Aplicación web de un contador, se ingresa una fecha y este va contando cuanto tiempo falta.
 
 ## Capturas de Pantalla
 
-![Alt text](image.png)
+![Alt text](captura_de_pantalla.png)
 
 ## Licencia
 
