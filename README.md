@@ -2,7 +2,7 @@
 
 Aplicación web de un contador, se ingresa una fecha y este va contando cuanto tiempo falta. También lleva una puntuación que se va actualizando.
 
-## Capturas de Pantalla
+## Captura de Pantalla
 
 ![Alt text](captura_de_pantalla.png)
 
